@@ -2,5 +2,4 @@ site_name: Cody's Blog
 theme:
   name: material
   palette:
-    accent: red
-    
+    - accent: red
