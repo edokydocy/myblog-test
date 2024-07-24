@@ -3,3 +3,6 @@ theme:
   name: material
   palette:
     - accent: red
+  features:
+    - navigation.instant
+  
